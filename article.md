@@ -8,7 +8,7 @@ canonical_link: "https://medium.com/@kyle-t-jones/forecasting-in-the-real-world-
 # Forecasting in the Real World: Moving From Opinions to Data Why simple methods persist, and what it takes to adopt advanced
 forecasting in practice
 
-### **Forecasting in the Real World: Moving From Opinions to Data** 
+### Forecasting in the Real World: Moving From Opinions to Data 
 
 #### Why simple methods persist, and what it takes to adopt advanced forecasting in practice
 Forecasting is the backbone of decision-making in industries that rely on planning, budgeting, and operational efficiency. Companies forecast to anticipate demand, allocate resources, set revenue targets, and manage supply chains. But how familiar are practitioners with forecasting methods? Which methods do they use most often? And how has that changed over time?
@@ -26,10 +26,10 @@ These results paint a clear picture: in 1984, most forecasting in practice leane
 ### What Has Changed Since Then?
 Forty years later, the gap between theory and practice has narrowed, but not vanished. Many businesses still rely on basic methods. Moving averages and straight-line projections remain dominant, especially in sales forecasting. However, several major changes have reshaped the landscape:
 
-1.  [**Rise of Predictive Analytics**: Companies now use historical data alongside real-time signals to improve accuracy. This includes web traffic, economic indicators, and customer behavior.]
-2.  [**Adoption of Machine Learning**: Methods like gradient boosting, random forests, and LSTM neural networks are being used to forecast demand, sales, and maintenance needs. These methods can uncover nonlinear patterns that classical methods miss.]
-3.  [**Automated Forecasting Platforms**: Tools like Amazon Forecast, Azure ML, and open-source libraries like Prophet, Darts, and Nixtla make it easier to deploy complex models without deep statistical training.]
-4.  [**Cloud Computing and APIs**: The shift to cloud platforms has made real-time, large-scale forecasting more accessible. Forecasts can now be generated across millions of SKUs or locations in seconds.]
+1.  [Rise of Predictive Analytics: Companies now use historical data alongside real-time signals to improve accuracy. This includes web traffic, economic indicators, and customer behavior.]
+2.  [Adoption of Machine Learning: Methods like gradient boosting, random forests, and LSTM neural networks are being used to forecast demand, sales, and maintenance needs. These methods can uncover nonlinear patterns that classical methods miss.]
+3.  [Automated Forecasting Platforms: Tools like Amazon Forecast, Azure ML, and open-source libraries like Prophet, Darts, and Nixtla make it easier to deploy complex models without deep statistical training.]
+4.  [Cloud Computing and APIs: The shift to cloud platforms has made real-time, large-scale forecasting more accessible. Forecasts can now be generated across millions of SKUs or locations in seconds.]
 
 ### Subjective Forecasting Still Persists
 Despite technological progress, subjective methods have not disappeared. Jury of executive opinion remains widespread in strategic planning, especially where data is sparse or the environment is volatile. Sales force composites are still used in retail and B2B sectors where frontline teams have direct market insight.

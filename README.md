@@ -1,7 +1,7 @@
 # Forecasting in the Real World Moving From Opinions to Data
 
-**Published:** 2025-06-17
-**Medium:** [https://medium.com/@kyle-t-jones/forecasting-in-the-real-world-moving-from-opinions-to-data-2ebc24c98bbc](https://medium.com/@kyle-t-jones/forecasting-in-the-real-world-moving-from-opinions-to-data-2ebc24c98bbc)
+Published: 2025-06-17
+Medium: [https://medium.com/@kyle-t-jones/forecasting-in-the-real-world-moving-from-opinions-to-data-2ebc24c98bbc](https://medium.com/@kyle-t-jones/forecasting-in-the-real-world-moving-from-opinions-to-data-2ebc24c98bbc)
 
 ## About
 
