@@ -11,14 +11,7 @@ In one of the earliest empirical studies on forecasting usage, Mentzer and Cox (
 
 But there was a steep drop when it came to more sophisticated techniques. Life cycle analysis, classical decomposition, and Box-Jenkins (ARIMA) models were familiar to fewer than half the respondents. Only 26 percent reported strong familiarity with Box-Jenkins models, and 65 percent were completely unfamiliar.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
